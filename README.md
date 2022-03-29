@@ -1,4 +1,4 @@
-    This project represents Bakery application, which customer can use to make an order.
+    This group project represents Bakery application, which customer can use to make an order.
     Bakery has cakes and cupcakes in asertment, also there are twp tastes of desserts: vanilla and chocolate.
     Customer can decorate desserts with berry, candy or both of them.
     Customer can can pay online in advance, and is able to inform if he/she will get order by themselves or send a car.
